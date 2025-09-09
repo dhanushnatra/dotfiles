@@ -1,0 +1,5 @@
+
+~/.config/preload_i3 &
+feh --bg-scale ~/.config/wall.png &
+exec i3
+
